@@ -1,0 +1,11 @@
+chroma_bbc_news/
+chroma_bbc_news/*
+
+datasets/
+data/
+__pycache__/
+*.csv
+*.parquet
+*.json
+
+
